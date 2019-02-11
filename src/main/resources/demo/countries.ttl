@@ -1,0 +1,33 @@
+@prefix dbpedia: <http://dbpedia.org/ontology/> .
+@prefix pop: <http://dbpedia.org/ontology/PopulatedPlace/> .
+@prefix : <http://example.com/> .
+
+:France
+  a dbpedia:Country ;
+  pop:area 643801 ;
+  dbpedia:populationDensity 116 .
+
+:TheNetherlands
+  a dbpedia:Country ;
+  pop:area 41543 ;
+  dbpedia:populationTotal 17000059 .
+
+:Belgium
+  a dbpedia:Country ;
+  dbpedia:populationDensity 363.6 ;
+  pop:area 30528 .
+
+:UnitedStates
+  a dbpedia:Country ;
+  dbpedia:populationDensity 35 ;
+  pop:area 9833517 .
+
+:Germany
+  a dbpedia:Country ;
+  dbpedia:populationDensity 227 ;
+  pop:area 357168 .
+
+:India
+  a dbpedia:Country ;
+  pop:area 3287263 ;
+  dbpedia:populationTotal 1293057000 .

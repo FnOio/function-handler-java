@@ -1,0 +1,5 @@
+Start;End;http://example.com/StartLatitude;http://example.com/StartLongitude;http://example.com/EndLatitude;http://example.com/EndLongitude;http://example.com/Distance
+Brussels;Paris;50.8549541;4.3053506;48.8588377;2.2770205;
+London;Brussels;51.5285582;-0.2416802;50.8549541;4.3053506
+Oslo;London;59.8937806;10.6450362;51.5285582;-0.2416802
+New York City;Brussels;40.6971494;-74.2598611;50.8549541;4.3053506
